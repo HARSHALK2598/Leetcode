@@ -1,3 +1,4 @@
+// problem link: https://leetcode.com/problems/contains-duplicate/description/
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
