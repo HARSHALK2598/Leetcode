@@ -5,7 +5,7 @@ public:
         bool ans = false;
         for (int i = 0; i < nums.size(); i++){
             if (umap.find(nums[i]) != umap.end()) {
-                ans = true;x
+                ans = true;
                 break;
             }
             umap.insert(nums[i]);
